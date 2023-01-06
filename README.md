@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on a real time chat app.<br>👯 I’m looking to collaborate on a web3 project.<br>🤝 I’m looking for help with the integration of socket in a chat app.<br>🌱 I’m currently learning backend for building web apps.<br>💬 Ask me about React or Tailwind CSS.
+🔭 I’m currently looking for a job as a web developer .<br>👯 I'm looking to collaborate in a project that will allow me to learn more about software development in general.<br>🌱 I’m currently learning backend so any help is welcome 🤝.<br>💬 Ask me about React or Tailwind CSS.
 
 
 ## 🌐 Socials:
