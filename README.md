@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-# 💫 About Me:
-🔭 I’m currently looking for a job as a web developer .<br>👯 I'm looking to collaborate in a project that will allow me to learn more about software development in general.<br>🌱 I’m currently learning backend so any help is welcome 🤝.<br>💬 Ask me about React or Tailwind CSS.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tomibrasca97@gmail.com)
