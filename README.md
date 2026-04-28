@@ -22,16 +22,6 @@ I work across the full stack — from crafting user-facing features to designing
 
 ---
 
-## 📌 Notable Repositories
-
-| Project | Description |
-|---|---|
-| [code-problems](https://github.com/soundOfff/code-problems) | Solutions to competitive programming challenges from LeetCode, Codeforces, Beecrowd & Advent of Code |
-| [monogame-space-invader](https://github.com/soundOfff/monogame-space-invader) | Space Invaders clone built in C# with MonoGame |
-| [config](https://github.com/soundOfff/config) | Personal dotfiles — i3, Zsh, PHP CS Fixer & dev environment setup |
-
----
-
 ## 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomasbrasca)
