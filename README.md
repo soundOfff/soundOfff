@@ -1,6 +1,6 @@
 # Hi, I'm Tomi 👋
 
-**Software Developer & Systems Engineering student** based in Argentina, with a passion for building robust, scalable software and a perpetual drive to learn.
+**Systems Engineering** based in Argentina, with a passion for building robust, scalable software and a perpetual drive to learn.
 
 I work across the full stack — from crafting user-facing features to designing backend architectures and optimizing production systems. I enjoy tackling hard problems, whether that's integrating cutting-edge AI into real products or debugging a nasty performance bottleneck in production.
 
