@@ -1,4 +1,4 @@
-# Hi, I'm Tomi 👋
+# Hello, I'm Tomas
 
 **System Engineer** based in Argentina, with a passion for building robust, scalable software and a perpetual drive to learn.
 
@@ -6,7 +6,7 @@ I work across the full stack — from crafting user-facing features to designing
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 `C++` `Go` `JavaScript` `TypeScript` `C#` `PHP`
@@ -22,7 +22,7 @@ I work across the full stack — from crafting user-facing features to designing
 
 ---
 
-## 📫 Let's connect
+## Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomasbrasca)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733.svg?logo=netlify&logoColor=white)](https://tomasbrasca.xyz)
